@@ -32,6 +32,7 @@ nav >a { text-decoration: none; }
 img {width: 100%;
 height: auto;
 z-index: -200px;
+
 ;}
 
 footer{ background-color:rgb(207, 174, 38);
@@ -103,4 +104,6 @@ footer{ background-color:rgb(207, 174, 38);
     color: white;
  }
 
-scroll-behavior: smooth;
+html {scroll-behavior: smooth;}
+
+*{ margin:0;}
